@@ -32,10 +32,6 @@
         "source": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\drawable\\alarm.png"
     },
     {
-        "merged": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.gif",
-        "source": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\drawable\\splash.gif"
-    },
-    {
         "merged": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
@@ -64,12 +60,12 @@
         "source": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_wait.png",
-        "source": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\drawable\\btn_wait.png"
-    },
-    {
         "merged": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\form_button_selector.xml",
         "source": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\drawable\\form_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_wait.png",
+        "source": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\drawable\\btn_wait.png"
     },
     {
         "merged": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",

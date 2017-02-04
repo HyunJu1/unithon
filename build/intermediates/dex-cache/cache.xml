@@ -39,12 +39,48 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\exploded-aar\com.koushikdutta.async\androidasync\2.1.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\pre-dexed\debug\com.koushikdutta.async-androidasync-2.1.9_e8d889241557f4ec5955d3d8f40a590f2476c0ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.1.7\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6825a79ca6c134dd6f26fc15eff443b5215dbdc">
+        <dex dex="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\pre-dexed\debug\pl.droidsonroids.gif-android-gif-drawable-1.1.7_8fda55dc48a11629db4385912223ebc97008a7f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\exploded-aar\com.koushikdutta.ion\ion\2.1.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
+        <dex dex="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\pre-dexed\debug\com.koushikdutta.ion-ion-2.1.9_46a8c1fc84bbbf7de4873eee5ac81c7cc607af0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
         <dex dex="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_ef6156fddd18233378f36429d4524eecba5a98e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hh960\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\pre-dexed\debug\glide-3.7.0_dbf328b140c3d30d19726de982bee6ac530f9bd9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,6 +93,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\hh960\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\pre-dexed\debug\gson-2.3_e72ff116d4a95b8606717d8f08017b526b95697a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -66,21 +111,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_135e2d57e8fbe53059225cf687d146e3348199f3.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
         <dex dex="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_6c6538eb91a7c9218459af32c9c0745fe33a41ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_135e2d57e8fbe53059225cf687d146e3348199f3.jar" />
     </item>
     <item
         is-multidex="false"

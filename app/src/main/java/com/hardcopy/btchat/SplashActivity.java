@@ -7,6 +7,12 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.widget.ImageView;
 
+import pl.droidsonroids.gif.GifTextView;
+
+/**
+ * Created by Junyoung on 2016-06-26.
+ */
+
 public class SplashActivity extends Activity {
     private static int INTRO_TIME = 1500;
     private Handler mHandler;
@@ -19,8 +25,7 @@ public class SplashActivity extends Activity {
         mHandler = new Handler();
         mHandler.postDelayed(mRunnable, INTRO_TIME);
 
-     ImageView intro = (ImageView) findViewById(R.id.intro);
-
+        GifTextView intro = (GifTextView) findViewById(R.id.splash);
     }
 
     private Runnable mRunnable = new Runnable() {

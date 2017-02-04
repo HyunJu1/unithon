@@ -11,6 +11,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.hardcopy.btchat.naver.NaverActivity;
+
 import java.util.Calendar;
 public class Main0Activity extends AppCompatActivity {
 
@@ -36,6 +38,11 @@ public class Main0Activity extends AppCompatActivity {
             }
         });
 //----------------------------------------------------------------------------------
+
+
+
+
+        //--------------------------------------------------------------------------
         Button button = (Button)findViewById(R.id.alarmBtn);
         button.setOnClickListener(new View.OnClickListener() {
 
@@ -57,10 +64,11 @@ public class Main0Activity extends AppCompatActivity {
                         .setContentTitle("문을 두드립니다")
                         .setContentText("들어가도될까요?")
                         .setVibrate(new long[]{1000,1000,1000,1000})
-                        .setLights(Color.RED, 3000, 3000)
-                        .setContentIntent(pendingNotificationIntent)
-                        .setUsesChronometer(true)
-                        .setOngoing(true);
+                        .setLights(Color.RED, 3000, 3000);
+                       //  .setContentIntent(pendingNotificationIntent)
+                       // .setUsesChronometer(true)
+                       // .setOngoing(true);
+
 //setSmallIcon - > 작은 아이콘 이미지
 //setTicker - > 알람이 출력될 때 상단에 나오는 문구.
 //setWhen -> 알림 출력 시간.

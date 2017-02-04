@@ -20,12 +20,20 @@
         "source": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
+        "merged": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha.xml",
+        "source": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\anim\\alpha.xml"
+    },
+    {
         "merged": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
         "source": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\anim\\abc_fade_out.xml"
     },
     {
         "merged": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
         "source": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
+        "source": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\anim\\translate.xml"
     },
     {
         "merged": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",

@@ -244,6 +244,8 @@
             <enum name="screen" value="15"/>
         </attr></declare-styleable>
     <declare-styleable name="DrawerArrowToggle"><attr format="color" name="color"/><attr format="boolean" name="spinBars"/><attr format="dimension" name="drawableSize"/><attr format="dimension" name="gapBetweenBars"/><attr format="dimension" name="arrowHeadLength"/><attr format="dimension" name="arrowShaftLength"/><attr format="dimension" name="barLength"/><attr format="dimension" name="thickness"/></declare-styleable>
+    <declare-styleable name="GifTextureView"><attr format="reference|string" name="gifSource"/><attr format="boolean" name="isOpaque"/></declare-styleable>
+    <declare-styleable name="GifView"><attr format="boolean" name="freezesAnimation"/></declare-styleable>
     <declare-styleable name="LinearLayoutCompat"><attr name="android:orientation"/><attr name="android:gravity"/><attr name="android:baselineAligned"/><attr name="android:baselineAlignedChildIndex"/><attr name="android:weightSum"/><attr format="boolean" name="measureWithLargestChild"/><attr name="divider"/><attr name="showDividers">
             <flag name="none" value="0"/>
             <flag name="beginning" value="1"/>
