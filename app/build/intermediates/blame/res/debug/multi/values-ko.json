@@ -1,504 +1,5 @@
 [
     {
-        "outputFile": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ko\\values-ko.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 46,
-                    "endOffset": 97
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 190,
-                        "endColumn": 46,
-                        "endOffset": 232
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 102,
-                    "endColumn": 44,
-                    "endOffset": 142
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 56,
-                        "endColumn": 44,
-                        "endOffset": 96
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 147,
-                    "endColumn": 54,
-                    "endOffset": 197
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 1141,
-                        "endColumn": 54,
-                        "endOffset": 1191
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 202,
-                    "endColumn": 95,
-                    "endOffset": 293
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 1045,
-                        "endColumn": 95,
-                        "endOffset": 1136
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 298,
-                    "endColumn": 51,
-                    "endOffset": 345
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 888,
-                        "endColumn": 51,
-                        "endOffset": 935
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 350,
-                    "endColumn": 50,
-                    "endOffset": 396
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 940,
-                        "endColumn": 50,
-                        "endOffset": 986
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 401,
-                    "endColumn": 48,
-                    "endOffset": 445
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 991,
-                        "endColumn": 48,
-                        "endOffset": 1035
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 450,
-                    "endColumn": 50,
-                    "endOffset": 496
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 769,
-                        "endColumn": 50,
-                        "endOffset": 815
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 501,
-                    "endColumn": 67,
-                    "endOffset": 564
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 820,
-                        "endColumn": 67,
-                        "endOffset": 883
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 569,
-                    "endColumn": 46,
-                    "endOffset": 611
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 717,
-                        "endColumn": 46,
-                        "endOffset": 759
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 616,
-                    "endColumn": 45,
-                    "endOffset": 657
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 38,
-                        "startColumn": 4,
-                        "startOffset": 1558,
-                        "endColumn": 45,
-                        "endOffset": 1599
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 662,
-                    "endColumn": 42,
-                    "endOffset": 700
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 41,
-                        "startColumn": 4,
-                        "startOffset": 1631,
-                        "endColumn": 42,
-                        "endOffset": 1669
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 705,
-                    "endColumn": 59,
-                    "endOffset": 760
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 42,
-                        "startColumn": 4,
-                        "startOffset": 1674,
-                        "endColumn": 59,
-                        "endOffset": 1729
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 765,
-                    "endColumn": 52,
-                    "endOffset": 813
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 35,
-                        "startColumn": 4,
-                        "startOffset": 1385,
-                        "endColumn": 52,
-                        "endOffset": 1433
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 818,
-                    "endColumn": 55,
-                    "endOffset": 869
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 4,
-                        "startOffset": 1329,
-                        "endColumn": 55,
-                        "endOffset": 1380
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 874,
-                    "endColumn": 46,
-                    "endOffset": 916
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 1230,
-                        "endColumn": 46,
-                        "endOffset": 1272
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 921,
-                    "endColumn": 51,
-                    "endOffset": 968
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 4,
-                        "startOffset": 1277,
-                        "endColumn": 51,
-                        "endOffset": 1324
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 973,
-                    "endColumn": 56,
-                    "endOffset": 1025
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 101,
-                        "endColumn": 56,
-                        "endOffset": 153
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1030,
-                    "endColumn": 65,
-                    "endOffset": 1091
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 237,
-                        "endColumn": 65,
-                        "endOffset": 298
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1096,
-                    "endColumn": 93,
-                    "endOffset": 1185
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 410,
-                        "endColumn": 93,
-                        "endOffset": 499
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 1190,
-                    "endColumn": 106,
-                    "endOffset": 1292
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 303,
-                        "endColumn": 106,
-                        "endOffset": 405
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 1297,
-                    "endColumn": 49,
-                    "endOffset": 1342
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 545,
-                        "endColumn": 49,
-                        "endOffset": 590
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 1347,
-                    "endColumn": 48,
-                    "endOffset": 1391
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 595,
-                        "endColumn": 48,
-                        "endOffset": 639
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 1396,
-                    "endColumn": 60,
-                    "endOffset": 1452
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 37,
-                        "startColumn": 4,
-                        "startOffset": 1497,
-                        "endColumn": 60,
-                        "endOffset": 1553
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 1457,
-                    "endColumn": 58,
-                    "endOffset": 1511
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 4,
-                        "startOffset": 1438,
-                        "endColumn": 58,
-                        "endOffset": 1492
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 1516,
-                    "endColumn": 38,
-                    "endOffset": 1550
-                },
-                "from": {
-                    "file": "C:\\Users\\ESENS\\AndroidStudioProjects\\BTChat-master1\\app\\src\\main\\res\\values-ko\\strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 649,
-                        "endColumn": 38,
-                        "endOffset": 683
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ko\\values-ko.xml",
         "map": [
             {
@@ -510,7 +11,14 @@
                     "endOffset": 145
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 94,
+                        "endOffset": 145
+                    }
                 }
             },
             {
@@ -522,7 +30,14 @@
                     "endOffset": 253
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 150,
+                        "endColumn": 107,
+                        "endOffset": 253
+                    }
                 }
             },
             {
@@ -534,7 +49,14 @@
                     "endOffset": 376
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 258,
+                        "endColumn": 122,
+                        "endOffset": 376
+                    }
                 }
             },
             {
@@ -546,7 +68,14 @@
                     "endOffset": 470
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 381,
+                        "endColumn": 93,
+                        "endOffset": 470
+                    }
                 }
             },
             {
@@ -558,7 +87,14 @@
                     "endOffset": 572
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endColumn": 101,
+                        "endOffset": 572
+                    }
                 }
             },
             {
@@ -570,7 +106,14 @@
                     "endOffset": 654
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 577,
+                        "endColumn": 81,
+                        "endOffset": 654
+                    }
                 }
             },
             {
@@ -582,7 +125,14 @@
                     "endOffset": 752
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 97,
+                        "endOffset": 752
+                    }
                 }
             },
             {
@@ -594,7 +144,14 @@
                     "endOffset": 858
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 757,
+                        "endColumn": 105,
+                        "endOffset": 858
+                    }
                 }
             },
             {
@@ -606,7 +163,14 @@
                     "endOffset": 937
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 863,
+                        "endColumn": 78,
+                        "endOffset": 937
+                    }
                 }
             },
             {
@@ -618,7 +182,14 @@
                     "endOffset": 1013
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 75,
+                        "endOffset": 1013
+                    }
                 }
             },
             {
@@ -630,7 +201,14 @@
                     "endOffset": 1093
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1018,
+                        "endColumn": 79,
+                        "endOffset": 1093
+                    }
                 }
             },
             {
@@ -642,7 +220,14 @@
                     "endOffset": 1191
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endColumn": 97,
+                        "endOffset": 1191
+                    }
                 }
             },
             {
@@ -654,7 +239,14 @@
                     "endOffset": 1286
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1196,
+                        "endColumn": 94,
+                        "endOffset": 1286
+                    }
                 }
             },
             {
@@ -666,7 +258,14 @@
                     "endOffset": 1381
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1291,
+                        "endColumn": 94,
+                        "endOffset": 1381
+                    }
                 }
             },
             {
@@ -678,7 +277,14 @@
                     "endOffset": 1481
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1386,
+                        "endColumn": 99,
+                        "endOffset": 1481
+                    }
                 }
             },
             {
@@ -690,7 +296,14 @@
                     "endOffset": 1577
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1486,
+                        "endColumn": 95,
+                        "endOffset": 1577
+                    }
                 }
             },
             {
@@ -702,7 +315,14 @@
                     "endOffset": 1676
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1582,
+                        "endColumn": 98,
+                        "endOffset": 1676
+                    }
                 }
             },
             {
@@ -714,7 +334,14 @@
                     "endOffset": 1791
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1681,
+                        "endColumn": 114,
+                        "endOffset": 1791
+                    }
                 }
             },
             {
@@ -726,7 +353,14 @@
                     "endOffset": 1885
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1796,
+                        "endColumn": 93,
+                        "endOffset": 1885
+                    }
                 }
             },
             {
@@ -738,7 +372,14 @@
                     "endOffset": 1932
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endColumn": 46,
+                        "endOffset": 228
+                    }
                 }
             },
             {
@@ -769,7 +410,14 @@
                     "endOffset": 2030
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1135,
+                        "endColumn": 54,
+                        "endOffset": 1185
+                    }
                 }
             },
             {
@@ -781,7 +429,14 @@
                     "endOffset": 2126
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1039,
+                        "endColumn": 95,
+                        "endOffset": 1130
+                    }
                 }
             },
             {
@@ -793,7 +448,14 @@
                     "endOffset": 2178
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 882,
+                        "endColumn": 51,
+                        "endOffset": 929
+                    }
                 }
             },
             {
@@ -805,7 +467,14 @@
                     "endOffset": 2229
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 934,
+                        "endColumn": 50,
+                        "endOffset": 980
+                    }
                 }
             },
             {
@@ -817,7 +486,14 @@
                     "endOffset": 2278
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 985,
+                        "endColumn": 48,
+                        "endOffset": 1029
+                    }
                 }
             },
             {
@@ -829,7 +505,14 @@
                     "endOffset": 2329
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 763,
+                        "endColumn": 50,
+                        "endOffset": 809
+                    }
                 }
             },
             {
@@ -841,7 +524,14 @@
                     "endOffset": 2397
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 814,
+                        "endColumn": 67,
+                        "endOffset": 877
+                    }
                 }
             },
             {
@@ -853,7 +543,14 @@
                     "endOffset": 2444
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 46,
+                        "endOffset": 753
+                    }
                 }
             },
             {
@@ -865,7 +562,14 @@
                     "endOffset": 2490
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1552,
+                        "endColumn": 45,
+                        "endOffset": 1593
+                    }
                 }
             },
             {
@@ -877,7 +581,14 @@
                     "endOffset": 2533
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1625,
+                        "endColumn": 42,
+                        "endOffset": 1663
+                    }
                 }
             },
             {
@@ -889,7 +600,14 @@
                     "endOffset": 2593
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1668,
+                        "endColumn": 59,
+                        "endOffset": 1723
+                    }
                 }
             },
             {
@@ -901,7 +619,14 @@
                     "endOffset": 2646
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1729,
+                        "endColumn": 52,
+                        "endOffset": 1777
+                    }
                 }
             },
             {
@@ -909,56 +634,103 @@
                     "startLine": 35,
                     "startColumn": 4,
                     "startOffset": 2651,
-                    "endColumn": 55,
-                    "endOffset": 2702
+                    "endColumn": 52,
+                    "endOffset": 2699
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1379,
+                        "endColumn": 52,
+                        "endOffset": 1427
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 2707,
-                    "endColumn": 46,
-                    "endOffset": 2749
+                    "startOffset": 2704,
+                    "endColumn": 55,
+                    "endOffset": 2755
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1323,
+                        "endColumn": 55,
+                        "endOffset": 1374
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2754,
-                    "endColumn": 77,
-                    "endOffset": 2827
+                    "startOffset": 2760,
+                    "endColumn": 46,
+                    "endOffset": 2802
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1224,
+                        "endColumn": 46,
+                        "endOffset": 1266
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2832,
-                    "endColumn": 51,
-                    "endOffset": 2879
+                    "startOffset": 2807,
+                    "endColumn": 77,
+                    "endOffset": 2880
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1890,
+                        "endColumn": 77,
+                        "endOffset": 1963
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 2884,
+                    "startOffset": 2885,
+                    "endColumn": 51,
+                    "endOffset": 2932
+                },
+                "from": {
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1271,
+                        "endColumn": 51,
+                        "endOffset": 1318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2937,
                     "endColumn": 54,
-                    "endOffset": 2934
+                    "endOffset": 2987
                 },
                 "from": {
                     "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -973,59 +745,125 @@
             },
             {
                 "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 2939,
-                    "endColumn": 65,
-                    "endOffset": 3000
-                },
-                "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
-                }
-            },
-            {
-                "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 3005,
-                    "endColumn": 93,
-                    "endOffset": 3094
+                    "startOffset": 2992,
+                    "endColumn": 65,
+                    "endOffset": 3053
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endColumn": 65,
+                        "endOffset": 294
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 3099,
-                    "endColumn": 106,
-                    "endOffset": 3201
+                    "startOffset": 3058,
+                    "endColumn": 93,
+                    "endOffset": 3147
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 406,
+                        "endColumn": 93,
+                        "endOffset": 495
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 3206,
-                    "endColumn": 100,
-                    "endOffset": 3302
+                    "startOffset": 3152,
+                    "endColumn": 106,
+                    "endOffset": 3254
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 106,
+                        "endOffset": 401
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3307,
+                    "startOffset": 3259,
+                    "endColumn": 100,
+                    "endOffset": 3355
+                },
+                "from": {
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1968,
+                        "endColumn": 100,
+                        "endOffset": 2064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3360,
+                    "endColumn": 43,
+                    "endOffset": 3399
+                },
+                "from": {
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1783,
+                        "endColumn": 43,
+                        "endOffset": 1822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3404,
+                    "endColumn": 41,
+                    "endOffset": 3441
+                },
+                "from": {
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1827,
+                        "endColumn": 41,
+                        "endOffset": 1864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3446,
                     "endColumn": 47,
-                    "endOffset": 3350
+                    "endOffset": 3489
                 },
                 "from": {
                     "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -1040,50 +878,78 @@
             },
             {
                 "to": {
-                    "startLine": 45,
-                    "startColumn": 4,
-                    "startOffset": 3355,
-                    "endColumn": 48,
-                    "endOffset": 3399
-                },
-                "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 46,
-                    "startColumn": 4,
-                    "startOffset": 3404,
-                    "endColumn": 60,
-                    "endOffset": 3460
-                },
-                "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 47,
-                    "startColumn": 4,
-                    "startOffset": 3465,
-                    "endColumn": 58,
-                    "endOffset": 3519
-                },
-                "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
-                }
-            },
-            {
-                "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 3524,
-                    "endColumn": 38,
-                    "endOffset": 3558
+                    "startOffset": 3494,
+                    "endColumn": 48,
+                    "endOffset": 3538
                 },
                 "from": {
-                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml"
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 48,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3543,
+                    "endColumn": 60,
+                    "endOffset": 3599
+                },
+                "from": {
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1491,
+                        "endColumn": 60,
+                        "endOffset": 1547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3604,
+                    "endColumn": 58,
+                    "endOffset": 3658
+                },
+                "from": {
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1432,
+                        "endColumn": 58,
+                        "endOffset": 1486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3663,
+                    "endColumn": 38,
+                    "endOffset": 3697
+                },
+                "from": {
+                    "file": "C:\\Users\\hh960\\Desktop\\unithon\\BTChat-master2\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 643,
+                        "endColumn": 38,
+                        "endOffset": 677
+                    }
                 }
             }
         ]

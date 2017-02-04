@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="naverspeech-sdk-android-1.1.2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.naver.speech.clientapi/naverspeech-sdk-android/1.1.2/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.naver.speech.clientapi/naverspeech-sdk-android/1.1.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.naver.speech.clientapi/naverspeech-sdk-android/1.1.2/404e4de7dbd4325dcfa7835004ba57c257b0197e/naverspeech-sdk-android-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

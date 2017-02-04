@@ -32,6 +32,7 @@
     <string name="button_scan">장치 스캔</string>
     <string name="connect">장치에 연결</string>
     <string name="discoverable">Make\ndiscoverable</string>
+    <string name="hello_world">Hello world!</string>
     <string name="none_found">검색된 장치가 없습니다.</string>
     <string name="none_paired">페어링 된 장치가 없습니다.</string>
     <string name="scanning">장치 검색중...</string>
@@ -42,6 +43,8 @@
     <string name="settings_copyrights">\n\nFind more at http://www.hardcopyworld.com</string>
     <string name="settings_iot_guide">\n앱에서 아래와 같은 형식의 메시지를 받으면 자동으로 지정된 서버로 HTTP request를 보내줍니다.</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="str_start">Start</string>
+    <string name="str_stop">Stop</string>
     <string name="title_example">Knock</string>
     <string name="title_ll_settings">설정</string>
     <string name="title_other_devices">사용가능한 다른 장치들</string>

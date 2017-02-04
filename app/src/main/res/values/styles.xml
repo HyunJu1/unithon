@@ -22,7 +22,7 @@
     
 
     <style name="AppTheme.IntroContainer">
-        <item name="android:background">@color/blue6</item>
+        <item name="android:background">@color/deepblue5</item>
     </style>
     <style name="AppTheme.IntroTextBig">
         <item name="android:textSize">28sp</item>
@@ -30,7 +30,7 @@
     </style>
     <style name="AppTheme.IntroTextSmall">
         <item name="android:textSize">14sp</item>
-        <item name="android:textColor">@color/blue2</item>
+        <item name="android:textColor">@color/deepblue2</item>
     </style>
     
     

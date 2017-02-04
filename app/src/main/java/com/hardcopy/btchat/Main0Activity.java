@@ -27,7 +27,15 @@ public class Main0Activity extends AppCompatActivity {
                 Main0Activity.this.startActivity(intent);
             }
         });
-
+        //--------------------------------------------------------------------
+        Button bb =(Button) findViewById(R.id.button);
+        bb.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View view) {
+                Intent intent = new Intent(Main0Activity.this, Main2Activity.class);
+                Main0Activity.this.startActivity(intent);
+            }
+        });
+//----------------------------------------------------------------------------------
         Button button = (Button)findViewById(R.id.alarmBtn);
         button.setOnClickListener(new View.OnClickListener() {
 
@@ -43,7 +51,7 @@ public class Main0Activity extends AppCompatActivity {
 
                 PendingIntent pendingNotificationIntent = PendingIntent.getActivity( Main0Activity.this,0, intent1,PendingIntent.FLAG_UPDATE_CURRENT);
 
-                builder.setSmallIcon(R.drawable.on)
+                builder.setSmallIcon(R.drawable.app_logo)
                         .setTicker("HETT")
                         .setWhen(System.currentTimeMillis())
                         .setContentTitle("문을 두드립니다")

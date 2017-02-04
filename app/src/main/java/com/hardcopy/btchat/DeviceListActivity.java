@@ -18,8 +18,6 @@ package com.hardcopy.btchat;
 
 import java.util.Set;
 
-import com.hardcopy.btchat.R;
-
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;

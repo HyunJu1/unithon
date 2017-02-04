@@ -66,15 +66,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_6c6538eb91a7c9218459af32c9c0745fe33a41ee.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -84,12 +75,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_6c6538eb91a7c9218459af32c9c0745fe33a41ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
         <dex dex="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_cedd498c34a97b54e16c551c982934946111f743.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\exploded-aar\com.naver.speech.clientapi\naverspeech-sdk-android\1.1.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4564c7cd779d6977d87ab5543448296b19176cdd">
+        <dex dex="C:\Users\hh960\Desktop\unithon\BTChat-master2\app\build\intermediates\pre-dexed\debug\com.naver.speech.clientapi-naverspeech-sdk-android-1.1.2_3bdda80934b3903deb96bf72d3916020a98681ed.jar" />
     </item>
 
 </items>
