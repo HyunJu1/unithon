@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"홈 탐색"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"위로 탐색"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"옵션 더보기"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"완료"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"전체 보기"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"앱 선택"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"사용 안함"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"사용"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"검색..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"검색어 삭제"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"검색어"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"검색"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"검색어 보내기"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"음성 검색"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"공유 대상"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s와(과) 공유"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"접기"</string>
+    <string name="action_settings">설정</string>
+    <string name="app_name">Knock</string>
+    <string name="bt_cmd_sending_error">전송 실패</string>
+    <string name="bt_not_enabled_leaving">블루투스가 꺼져 있습니다. 폰의 Settings 에서 블루투스를 활성화 하세요.</string>
+    <string name="bt_state_connect">연결중...</string>
+    <string name="bt_state_connected">연결됨</string>
+    <string name="bt_state_error">error</string>
+    <string name="bt_state_init">초기화 중...</string>
+    <string name="bt_state_wait">대기중.. (우측 상단 아이콘으로 수동 검색)</string>
+    <string name="bt_title">Bluetooth</string>
+    <string name="button_scan">장치 스캔</string>
+    <string name="connect">장치에 연결</string>
+    <string name="discoverable">Make\ndiscoverable</string>
+    <string name="none_found">검색된 장치가 없습니다.</string>
+    <string name="none_paired">페어링 된 장치가 없습니다.</string>
+    <string name="scanning">장치 검색중...</string>
+    <string msgid="146198913615257606" name="search_menu_title">"검색"</string>
+    <string name="select_device">연결할 장치 선택</string>
+    <string name="service_name">Knock Service</string>
+    <string name="settings_background_service">백그라운드로 실행</string>
+    <string name="settings_copyrights">\n\nFind more at http://www.hardcopyworld.com</string>
+    <string name="settings_iot_guide">\n앱에서 아래와 같은 형식의 메시지를 받으면 자동으로 지정된 서버로 HTTP request를 보내줍니다.</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="title_example">Knock</string>
+    <string name="title_ll_settings">설정</string>
+    <string name="title_other_devices">사용가능한 다른 장치들</string>
+    <string name="title_paired_devices">페어링 된 장치들</string>
+    <string name="ui_send">전송</string>
+</resources>
